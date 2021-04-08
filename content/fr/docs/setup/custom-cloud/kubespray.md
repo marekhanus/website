@@ -49,7 +49,7 @@ Afin de vous aider à préparer votre de votre environnement, Kubespray fournit 
 
 ### (2/5) Construire un fichier d'inventaire Ansible
 
-Lorsque vos serveurs sont disponibles, créez un fichier d'inventaire Ansible ([inventory](http://docs.ansible.com/ansible/intro_inventory.html)).
+Lorsque vos serveurs sont disponibles, créez un fichier d'inventaire Ansible ([inventory](https://docs.ansible.com/ansible/latest/network/getting_started/first_inventory.html)).
 Vous pouvez le créer manuellement ou en utilisant un script d'inventaire dynamique. Pour plus d'informations se référer à [Building your own inventory](https://github.com/kubernetes-incubator/kubespray/blob/master/docs/getting-started.md#building-your-own-inventory).
 
 ### (3/5) Préparation au déploiement de votre cluster

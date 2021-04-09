@@ -68,7 +68,7 @@ Kubespray permet de personnaliser de nombreux éléments:
   * cri-o
 * Méthode de génération des certificats (**Vault n'étant plus maintenu**)
 
-Ces paramètres Kubespray peuvent être définis dans un fichier de [variables](http://docs.ansible.com/ansible/playbooks_variables.html).
+Ces paramètres Kubespray peuvent être définis dans un fichier de [variables](https://docs.ansible.com/ansible/latest/user_guide/playbooks_variables.html).
 Si vous venez juste de commencer à utiliser Kubespray nous vous recommandons d'utiliser les paramètres par défaut pour déployer votre cluster et découvrir Kubernetes
 
 ### (4/5) Déployer un Cluster
